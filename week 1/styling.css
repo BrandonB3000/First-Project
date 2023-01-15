@@ -1,0 +1,41 @@
+.Gunther{
+    margin-left: 25px;
+    margin-right: auto;
+}
+
+
+h1{
+   text-align: center;
+}
+
+h3{
+    text-align: center;
+ }
+
+ ul{
+    text-decoration: none;
+ }
+
+nav{
+    text-align:center;
+    color:white;
+    position:relative;
+    width: auto;
+    height: 30px;
+    background-color: #11A5FA;
+    margin-left:0.5em;
+    margin-right:0.5em;
+    top: 0.0em;
+    z-index:5;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 10px 5px 5px #44433f;
+    border-bottom: 3px solid black;
+    border-right: 3px solid black;
+    border-left: 3px solid black;
+}
+
+.p1{
+    text-align: center; 
+}
